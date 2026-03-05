@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|c:\\projetos\\c#\\exerciciometodosabstratos\\shape\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|solutionrelative:shape\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|c:\\projetos\\c#\\exerciciometodosabstratos\\shape\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|solutionrelative:shape\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|c:\\projetos\\c#\\exerciciometodosabstratos\\shape\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|solutionrelative:shape\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|c:\\projetos\\c#\\exerciciometodosabstratos\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51DC13A-7B7F-479D-83F5-C08AE882EF04}|Shape\\Shape.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Shape\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Shape\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:31:51.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shape\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Shape\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:42:42.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Entities\\Shape.cs",
+              "RelativeToolTip": "Shape\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:27:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Program.cs",
+              "RelativeDocumentMoniker": "Shape\\Program.cs",
+              "ToolTip": "C:\\Projetos\\C#\\ExercicioMetodosAbstratos\\Shape\\Program.cs",
+              "RelativeToolTip": "Shape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:07:22.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
