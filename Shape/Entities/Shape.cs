@@ -1,6 +1,6 @@
-﻿using Shape.Entities.Enums;
+﻿using ShapeProject.Entities.Enums;
 
-namespace Shape.Entities
+namespace ShapeProject.Entities
 {
     abstract class Shape
     {
@@ -15,3 +15,4 @@ namespace Shape.Entities
     }
     
 }
+ 

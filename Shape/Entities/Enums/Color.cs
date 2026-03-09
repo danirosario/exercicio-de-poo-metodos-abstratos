@@ -1,9 +1,9 @@
-﻿namespace Shape.Entities.Enums
+﻿namespace ShapeProject.Entities.Enums
 {
     internal enum Color
     {
-        Black = 0,
-        Blue = 1,
-        Red = 2
+        Black,
+        Blue,
+        Red
     }
 }
