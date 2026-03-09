@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Shape/ShapeProject.csproj" Id="f51dc13a-7b7f-479d-83f5-c08ae882ef04" />
+  <Project Path="Taxpayer/TaxpayerProject.csproj" Id="dffcb272-9812-4abd-9960-64820bd56ed9" />
 </Solution>
