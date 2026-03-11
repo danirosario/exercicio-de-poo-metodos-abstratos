@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Enums\TaxpayerType.cs" />
+    <Compile Include="Entities\IndividualTaxpayer.cs" />
+    <Compile Include="Entities\Taxpayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
