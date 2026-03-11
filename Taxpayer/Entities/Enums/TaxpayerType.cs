@@ -1,4 +1,5 @@
-﻿namespace Taxpayer.Entities.Enums
+﻿/*
+namespace Taxpayer.Entities.Enums
 {
     internal enum TaxpayerType
     {
@@ -6,3 +7,4 @@
         Company = 2
     }
 }
+*/

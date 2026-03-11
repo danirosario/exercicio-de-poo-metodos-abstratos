@@ -1,4 +1,4 @@
-﻿namespace Taxpayer.Entities
+﻿namespace TaxpayerProject.Entities
 {
     internal abstract class Taxpayer
     {
@@ -16,3 +16,4 @@
         public abstract double Tax();
     }
 }
+
