@@ -1,7 +1,4 @@
-﻿//using TaxpayerProject.Entities.Enums;
-using TaxpayerProject.Entities;
-
-namespace TaxpayerProject.Entities
+﻿namespace TaxpayerProject.Entities
 {
     internal class IndividualTaxpayer : Taxpayer
     {

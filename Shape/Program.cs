@@ -38,9 +38,8 @@ namespace ShapeProject
                     shapes.Add(new Circle(radius, color));
                 }
 
-                Console.WriteLine("\n SHAPE AREAS: ");
-
             }
+            Console.WriteLine("\n SHAPE AREAS: ");
             foreach (Shape shape in shapes)
             {
                 Console.WriteLine(shape.Area().ToString("F2", CultureInfo.InvariantCulture));
